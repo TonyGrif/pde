@@ -1,0 +1,11 @@
+[project]
+name = "transport-equation"
+version = "0.1"
+description = "Demonstration of the basic transport equation"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "py-pde>=0.47.2",
+]
